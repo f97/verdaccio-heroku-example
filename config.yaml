@@ -6,7 +6,7 @@ auth:
   htpasswd:
     file: ./htpasswd
 web:
-  title: Verdaccio Heroku
+  title: Verdaccio
 uplinks:
   npmjs:
     url: https://registry.npmjs.org/
